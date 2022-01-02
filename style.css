@@ -1,0 +1,24 @@
+#header {
+    display: flex;
+    background-color: beige;
+    font-size: larger;
+}
+img {
+    width: 200px;
+    height: 200px;
+border-radius: 25px;
+}
+.info {
+    display: flex;
+    font-size: medium;
+    flex-wrap: wrap;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.contact {
+    margin-right: 20px;
+}
+.skils {
+    border-left: solid green;
+}
